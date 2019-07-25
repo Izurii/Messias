@@ -1,0 +1,24 @@
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\IZURII\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml

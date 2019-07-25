@@ -1,0 +1,41 @@
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.GenerateResource.Cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.CoreCompileInputs.cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.exe.config
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.exe
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.pdb
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csprojResolveAssemblyReference.cache
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.Properties.Resources.resources
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.exe
+C:\Users\IZURII\source\repos\WindowsFormsApp1 - Copia\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.pdb
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.exe.config
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.exe
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.pdb
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.Properties.Resources.resources
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.GenerateResource.Cache
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.CoreCompileInputs.cache
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.exe
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.pdb
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.Form1.resources
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.About.resources
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csprojResolveAssemblyReference.cache
+C:\Users\IZURII\source\repos\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.report.resources
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.exe.config
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.exe
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\bin\Debug\CalculadoradoMessias.pdb
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csprojAssemblyReference.cache
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.About.resources
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.Form1.resources
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.Properties.Resources.resources
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.report.resources
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.GenerateResource.cache
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.CoreCompileInputs.cache
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.csproj.CopyComplete
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.exe
+C:\Users\IZURII\Desktop\Messias\WindowsFormsApp1\obj\Debug\CalculadoradoMessias.pdb
